@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.env
+*.db
+*.db-wal
+*.db-shm
+.venv/
+venv/
+dist/
+build/
+deploy/daemon/onchainos
+deploy/daemon/.env.local
+assets/
+docs/
